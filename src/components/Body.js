@@ -9,7 +9,15 @@ const Body = () => {
           <h2 style={styles.name}>Yaroslav Guz</h2>
           <p style={styles.position}>Trainee Java Developer</p>
         </div>
-      </div>
+       </div>
+
+       <div style={styles.card}>
+           <img src={"/bodnar_solomia.jpg"} alt="Solomia Bodnar" style={styles.photo} />
+           <div style={styles.textContainer}>
+               <h2 style={styles.name}>Solomia Bodnar</h2>
+               <p style={styles.position}>Project Manager</p>
+           </div>
+       </div>
     </main>
   );
 };
