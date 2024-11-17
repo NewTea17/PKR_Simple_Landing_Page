@@ -27,7 +27,7 @@ const Body = () => {
         </div>
       </div>
 
-        <div style={styles.card}>
+      <div style={styles.card}>
         <img src={"/drobot_denys.jpg"} alt="Drobot Denys" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Drobot Denys</h2>
@@ -35,21 +35,21 @@ const Body = () => {
         </div>
       </div>
 
-    <div style={styles.card}>
-           <img src={"/babych_illia.jpg"} alt="Illia Babych" style={styles.photo} />
-           <div style={styles.textContainer}>
-               <h2 style={styles.name}>Illia Babych</h2>
-               <p style={styles.position}>UI/UX designer & Front-end Developer</p>
-           </div>
-       </div>
+      <div style={styles.card}>
+        <img src={"/babych_illia.jpg"} alt="Illia Babych" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Illia Babych</h2>
+          <p style={styles.position}>UI/UX designer & Front-end Developer</p>
+        </div>
+      </div>
 
-       <div style={styles.card}>
+      <div style={styles.card}>
         <img src={"/blyndiuk_oleksandr.jpg"} alt="Blyndiuk Oleksandr" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Blyndiuk Oleksandr</h2>
           <p style={styles.position}>QA Tester</p>
         </div>
-       </div>
+      </div>
 
     </main>
   );
