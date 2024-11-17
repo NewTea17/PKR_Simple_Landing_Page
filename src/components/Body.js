@@ -9,33 +9,31 @@ const Body = () => {
           <h2 style={styles.name}>Yaroslav Guz</h2>
           <p style={styles.position}>Trainee Java Developer</p>
         </div>
-       </div>
+      </div>
 
-       <div style={styles.card}>
-           <img src={"/bodnar_solomia.jpg"} alt="Solomia Bodnar" style={styles.photo} />
-           <div style={styles.textContainer}>
-               <h2 style={styles.name}>Solomia Bodnar</h2>
-               <p style={styles.position}>Project Manager</p>
-           </div>
-       </div>
+      <div style={styles.card}>
+        <img src={"/bodnar_solomia.jpg"} alt="Solomia Bodnar" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Solomia Bodnar</h2>
+          <p style={styles.position}>Project Manager</p>
+        </div>
+      </div>
 
-       <div style={styles.card}>
+      <div style={styles.card}>
         <img src={"/babych_kateryna.jpg"} alt="Kateryna Babych" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Kateryna Babych</h2>
           <p style={styles.position}>Business Analyst</p>
         </div>
-       </div>
+      </div>
 
-  <div style={styles.card}>
+        <div style={styles.card}>
         <img src={"/drobot_denys.jpg"} alt="Drobot Denys" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Drobot Denys</h2>
           <p style={styles.position}>UI/UX designer & front-end developer</p>
         </div>
-       </div>
-
-      
+      </div>
 
     </main>
   );
