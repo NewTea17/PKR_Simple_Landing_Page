@@ -27,7 +27,7 @@ const Body = () => {
         </div>
       </div>
 
-      <div style={styles.card}>
+        <div style={styles.card}>
         <img src={"/drobot_denys.jpg"} alt="Drobot Denys" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Drobot Denys</h2>
