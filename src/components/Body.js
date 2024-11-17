@@ -75,7 +75,7 @@ const styles = {
   photo: {
     width: "100px",
     height: "100px",
-    borderRadius: "50%",
+    borderRadius: "20%",
     objectFit: "cover",
   },
   textContainer: {
