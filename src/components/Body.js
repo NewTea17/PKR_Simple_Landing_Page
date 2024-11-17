@@ -61,7 +61,7 @@ const styles = {
     flexWrap: "wrap",
   },
   card: {
-    width: "150px",
+    width: "175px",
     padding: "1em",
     borderRadius: "10px",
     backgroundColor: "#fff",
