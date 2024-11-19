@@ -71,6 +71,7 @@ const styles = {
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
+    backgroundColor: "grey"
   },
   photo: {
     width: "100px",
@@ -84,12 +85,12 @@ const styles = {
   name: {
     fontSize: "1em",
     fontWeight: "bold",
-    color: "#333",
+    color: "#fff",
     margin: "0",
   },
   position: {
     fontSize: "0.9em",
-    color: "#6a0dad", // Same purple color as header
+    color: "green", // Same purple color as header
     margin: "0.5em 0 0 0",
   },
 };
